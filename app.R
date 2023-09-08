@@ -71,8 +71,8 @@ ui <-  tagList(
                         br(),
                         br(),
                         h3("Please cite the following paper when using the server and data at this website:"),
-                        h4("Guoqing Liu1,2#*, Yan Yang1#, Xuejia Kang1#, Hao Xu1, Jing Ai1, Min Cao1, Guojun Liu1,2*.A pan-cancer analysis of lipid metabolic alterations in primary and metastatic cancers.
-                                                                                                                  (The paper is in the review stage for publication, and the data will be updated after publication)"),
+                        h4("Guoqing Liu*, Yan Yang, Xuejia Kang, Hao Xu, Jing Ai, Min Cao, Guojun Liu*.A pan-cancer analysis of lipid metabolic alterations in primary and metastatic cancers.Scientific Reports,
+                                                                                                                  DOl: 10.1038/s41598-023-41107-3."),
                         
                         
                       )
